@@ -21,11 +21,7 @@
     "type": "git",
     "url": "git+https://github.com/whizzes/svelte-forms.git"
   },
-  "keywords": [
-    "svelte",
-    "forms",
-    "utility"
-  ],
+  "keywords": ["svelte", "forms", "utility"],
   "author": "Esteban Borai <estebanborai@gmail.com> (https://estebanborai.com)",
   "license": "MIT",
   "bugs": {
@@ -51,7 +47,7 @@
     "yup": "^1.4.0"
   },
   "peerDependencies": {
-    "svelte": "^4.x",
+    "svelte": "^5.x",
     "yup": "1.x"
   }
 }
